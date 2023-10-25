@@ -3,5 +3,8 @@ body{
     line-height: 30%;
     color:blanchedalmond;
     background-color: aqua;
-    
+
+}
+p{
+    font-family:'Franklin Gothic Medium';
 }
